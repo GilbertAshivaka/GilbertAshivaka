@@ -1,5 +1,8 @@
 # 💫 About Me:
-C++ and Python developer good at creating desktop applications using Qt/Qml & C++ and PyQt. Also working on getting better at Machine Learning and AI from first principles (the niche stuff :) ). AI/ML stack - Keras & Tensorflow, still learning Pytorch.<br> 
+I just need to be more hardcore, I just need to be more based, I just need  to be more technical! <br> 
+Qt/Qml & C++ <br> 
+Python and PyQt <br> 
+AI&ML (Keras, Tensorflow & Pytorch)<br> 
 
 
 ## 🌐 Socials:
